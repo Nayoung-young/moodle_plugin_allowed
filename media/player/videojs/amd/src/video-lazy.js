@@ -28242,7 +28242,7 @@
     // default playback rates
     playbackRates: [],
     // Add playback rate selection by adding rates
-    // 'playbackRates': [0.5, 1, 1.5, 2],
+     'playbackRates': [0.5, 1, 1.5, 2],
     liveui: false,
     // Included control sets
     children: ['mediaLoader', 'posterImage', 'textTrackDisplay', 'loadingSpinner', 'bigPlayButton', 'liveTracker', 'controlBar', 'errorDisplay', 'textTrackSettings', 'resizeManager'],
