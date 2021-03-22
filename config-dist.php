@@ -525,7 +525,7 @@ $CFG->admin = 'admin';
 // features (such as cancelling the plugin installation or upgrade) via the
 // server administration web interface.
 //
-//     $CFG->disableupdateautodeploy = false;
+     $CFG->disableupdateautodeploy = false;
 //
 // Use the following flag to disable the warning on the system notifications page
 // about present development libraries. This flag will not disable the warning within
